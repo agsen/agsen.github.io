@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5cd5a1d.chunk.css",
+    "main.js": "/static/js/main.2fe1acae.chunk.js",
+    "main.js.map": "/static/js/main.2fe1acae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e695090d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e695090d.js.map",
+    "static/js/2.e0b950b3.chunk.js": "/static/js/2.e0b950b3.chunk.js",
+    "static/js/2.e0b950b3.chunk.js.map": "/static/js/2.e0b950b3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0a44daee68ec2c776d83228abe439161.js": "/precache-manifest.0a44daee68ec2c776d83228abe439161.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d5cd5a1d.chunk.css.map": "/static/css/main.d5cd5a1d.chunk.css.map",
+    "static/media/homepage.css": "/static/media/background.8446a5a8.jpg",
+    "static/media/cekongkir-min.png": "/static/media/cekongkir-min.75343b24.png",
+    "static/media/cekresi-min.png": "/static/media/cekresi-min.cf3f11fd.png",
+    "static/media/demandAIimg1.png": "/static/media/demandAIimg1.0acd2469.png",
+    "static/media/demandAIimg2.png": "/static/media/demandAIimg2.ca553a33.png",
+    "static/media/foto.jpg": "/static/media/foto.a6745219.jpg",
+    "static/media/melisa-cover.jpg": "/static/media/melisa-cover.d68e132b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e695090d.js",
+    "static/js/2.e0b950b3.chunk.js",
+    "static/css/main.d5cd5a1d.chunk.css",
+    "static/js/main.2fe1acae.chunk.js"
+  ]
+}

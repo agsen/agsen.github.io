@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.d5cd5a1d.chunk.css",
-    "main.js": "/static/js/main.2fe1acae.chunk.js",
-    "main.js.map": "/static/js/main.2fe1acae.chunk.js.map",
+    "main.js": "/static/js/main.3509d872.chunk.js",
+    "main.js.map": "/static/js/main.3509d872.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e695090d.js",
     "runtime-main.js.map": "/static/js/runtime-main.e695090d.js.map",
-    "static/js/2.e0b950b3.chunk.js": "/static/js/2.e0b950b3.chunk.js",
-    "static/js/2.e0b950b3.chunk.js.map": "/static/js/2.e0b950b3.chunk.js.map",
+    "static/js/2.029fe90b.chunk.js": "/static/js/2.029fe90b.chunk.js",
+    "static/js/2.029fe90b.chunk.js.map": "/static/js/2.029fe90b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0a44daee68ec2c776d83228abe439161.js": "/precache-manifest.0a44daee68ec2c776d83228abe439161.js",
+    "precache-manifest.e834f02a0056b66c28d912b194f0e1d3.js": "/precache-manifest.e834f02a0056b66c28d912b194f0e1d3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d5cd5a1d.chunk.css.map": "/static/css/main.d5cd5a1d.chunk.css.map",
     "static/media/homepage.css": "/static/media/background.8446a5a8.jpg",
@@ -17,12 +17,18 @@
     "static/media/demandAIimg1.png": "/static/media/demandAIimg1.0acd2469.png",
     "static/media/demandAIimg2.png": "/static/media/demandAIimg2.ca553a33.png",
     "static/media/foto.jpg": "/static/media/foto.a6745219.jpg",
-    "static/media/melisa-cover.jpg": "/static/media/melisa-cover.d68e132b.jpg"
+    "static/media/melisa-cover.jpg": "/static/media/melisa-cover.d68e132b.jpg",
+    "static/media/melisa2-min.png": "/static/media/melisa2-min.ca79cee2.png",
+    "static/media/melisa3-min.png": "/static/media/melisa3-min.dc7c6efe.png",
+    "static/media/melisa4-min.png": "/static/media/melisa4-min.f4064e21.png",
+    "static/media/melisa5-min.png": "/static/media/melisa5-min.6262e449.png",
+    "static/media/melisa6-min.png": "/static/media/melisa6-min.2766b32a.png",
+    "static/media/melisa7-min.png": "/static/media/melisa7-min.4a7e0dc9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e695090d.js",
-    "static/js/2.e0b950b3.chunk.js",
+    "static/js/2.029fe90b.chunk.js",
     "static/css/main.d5cd5a1d.chunk.css",
-    "static/js/main.2fe1acae.chunk.js"
+    "static/js/main.3509d872.chunk.js"
   ]
 }
